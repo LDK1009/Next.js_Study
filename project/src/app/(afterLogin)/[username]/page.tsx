@@ -1,7 +1,8 @@
+
 export default function Profile() {
   return (
     <main>
-      username / page.js
+      프로필
     </main>
-  );
+  )
 }
